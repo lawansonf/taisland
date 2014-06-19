@@ -8,13 +8,9 @@
 	<h1> Tai's Island</h1>
 	<nav>
 		<ul>
-			<li>Bio</li>
-			<li>Pictues</li>
-			<li>Audio</li>
-			<li>Resume</li>
-			<li>Portfolio</li>
-			<li>Contact</li>
-		</ul>
+			<li><img src="images/bio.png" alt="bio" /> </li>
+			<li><img src="images/pictures.png" alt="pictures" /> </li>
+			<li><img src="images/music.png" alt="music" /> </li>
 	</nav>
 	<main id="wrapper">
 		
