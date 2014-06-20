@@ -21,11 +21,14 @@ h1{
 	width:100%;
 	height: 70px;
 	position: fixed;
-	color: #444;
-	background-color: #777;
-	font-size: 36px;
+	background-color: #222;
+	color: #777;
+	font-size: 42px;
 	text-align: center;
 	margin-bottom: 20px;
+}
+h1 img{
+	height: 40px;
 }
 
 #wrapper{
@@ -34,14 +37,7 @@ h1{
 	margin: 0 auto 0 auto;
 }
 
-nav{
-	width:100%;
-	position: fixed;
-	bottom:63px;
-	background-color: #222;
-	color: #555;
-	text-align:center;
-}
+
 
 nav li{
 	display: inline-block;

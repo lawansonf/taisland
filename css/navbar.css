@@ -1,0 +1,19 @@
+/*
+ * Author: Fatai Lawanson
+ * Created: 17-Jun-2014
+ * Last Modified: 17-Jun-2014 
+ * Styling for header
+ * */
+nav{
+	width:100%;
+	position: fixed;
+	bottom:63px;
+	background-color: #222;
+	color: #555;
+	text-align:center;
+}
+
+nav img{ 
+	width: 90px;
+}
+
